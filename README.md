@@ -1,8 +1,8 @@
-## Meta Toolkit [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheAlphamerc%2Fmeta-toolkit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Meta Toolkit [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framonaoldf%2Fmeta-toolkit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Meta Toolkit — Preview how your webpage will look on social media 
 
 <a href="https://meta-toolkit.vercel.app/">
-  <img alt="With Meta Toolkit you can preview how your webpage will look on Twitter, Facebook, Twitter, Linkedin and more!" src="https://github.com/TheAlphamerc/meta-toolkit/blob/main/src/app/opengraph-image.png?raw=true">
+  <img alt="With Meta Toolkit you can preview how your webpage will look on Twitter, Facebook, Twitter, Linkedin and more!" src="https://github.com/ramonaoldf/meta-toolkit/blob/main/src/app/opengraph-image.png?raw=true">
 </a>
 
 
@@ -33,5 +33,5 @@ yarn dev
 
 We love our contributors! Here's how you can contribute:
 
-- [Open an issue](https://github.com/TheAlphamerc/meta-toolkit/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/TheAlphamerc/meta-toolkit/pull) to add new features/make quality-of-life improvements/fix bugs.
+- [Open an issue](https://github.com/ramonaoldf/meta-toolkit/issues) if you believe you've encountered a bug.
+- Make a [pull request](https://github.com/ramonaoldf/meta-toolkit/pull) to add new features/make quality-of-life improvements/fix bugs.
